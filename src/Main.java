@@ -11,4 +11,5 @@ void main() {
         IO.println("i = " + i);
     }
     System.out.println("ffffffddddddd");
+    System.out.println("fetch test");
 }
