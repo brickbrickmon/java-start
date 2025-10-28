@@ -10,5 +10,14 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
     }
+<<<<<<< HEAD
+    System.out.println("ffffffddddddd");
+    System.out.println("fetch");
+    System.out.println("fetch");
+    System.out.println("fetch");
+    System.out.println("fetch");
+    System.out.println("fetch");
+=======
     System.out.println("commend 1");
+>>>>>>> ba6bd898744ee4d64f8fb1e4a8298ed453c3595f
 }
